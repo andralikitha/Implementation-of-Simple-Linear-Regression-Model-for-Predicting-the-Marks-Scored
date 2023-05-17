@@ -101,6 +101,7 @@ print('Values of MSE'
 ![229293967-09c262a2-1793-4fa3-9ad4-5b969c669900](https://user-images.githubusercontent.com/131592130/234187696-bfec141b-5e55-4a60-a257-7c46191cf70d.png)
 
 3.Array value of X:
+
 ![229293469-8f08eb90-7774-46aa-b0db-0ac8df78dad3](https://user-images.githubusercontent.com/131592130/234188032-8fb2a023-7e7b-4379-a114-7006b9ca6bc3.png)
 
 4.Array value of Y:
