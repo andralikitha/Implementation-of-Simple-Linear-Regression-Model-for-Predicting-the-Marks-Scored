@@ -92,6 +92,8 @@ print('Values of MSE'
 
 
 ## Output:
+1.df.head():
+
 ![229293862-34870b9a-d46d-41cb-9ea0-13cea22f00ae](https://user-images.githubusercontent.com/131592130/234187696-bfec141b-5e55-4a60-a257-7c46191cf70d.png)
 
 ![229293967-09c262a2-1793-4fa3-9ad4-5b969c669900](https://user-images.githubusercontent.com/131592130/234187696-bfec141b-5e55-4a60-a257-7c46191cf70d.png)
